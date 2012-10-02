@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SSMSHistorizer", "SSMSHistorizer\SSMSHistorizer.csproj", "{F6482FAF-D68F-485D-8B48-497332ED6719}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "SSMSHistorizer.Setup", "SSMSHistorizer.Setup\SSMSHistorizer.Setup.vdproj", "{AECDA2A5-6BC6-4500-92D3-2ABB2D4544CF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F6482FAF-D68F-485D-8B48-497332ED6719}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F6482FAF-D68F-485D-8B48-497332ED6719}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F6482FAF-D68F-485D-8B48-497332ED6719}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F6482FAF-D68F-485D-8B48-497332ED6719}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AECDA2A5-6BC6-4500-92D3-2ABB2D4544CF}.Debug|Any CPU.ActiveCfg = Debug
+		{AECDA2A5-6BC6-4500-92D3-2ABB2D4544CF}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
