@@ -1,4 +1,4 @@
-﻿namespace Dev.IL.Engineering.SSMSHistorizer
+﻿namespace Dev.IL.Engineering.SSMSHistorizer.Utils
 {
     using System.Reflection;
 

@@ -9,6 +9,7 @@
     using EnvDTE80;
 
     using NLog;
+    using LogManager = Dev.IL.Engineering.SSMSHistorizer.Utils.LogManager;
 
     public sealed class Historizer
     {
