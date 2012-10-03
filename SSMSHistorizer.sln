@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2010
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SSMSHistorizer", "SSMSHistorizer\SSMSHistorizer.csproj", "{F6482FAF-D68F-485D-8B48-497332ED6719}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dev.IL.Engineering.SSMSHistorizer", "SSMSHistorizer\Dev.IL.Engineering.SSMSHistorizer.csproj", "{F6482FAF-D68F-485D-8B48-497332ED6719}"
 EndProject
 Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "SSMSHistorizer.Setup", "SSMSHistorizer.Setup\SSMSHistorizer.Setup.vdproj", "{AECDA2A5-6BC6-4500-92D3-2ABB2D4544CF}"
 EndProject

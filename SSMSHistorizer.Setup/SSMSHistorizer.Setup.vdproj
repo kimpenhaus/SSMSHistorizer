@@ -3,7 +3,7 @@
 "VSVersion" = "3:800"
 "ProjectType" = "8:{978C614F-708E-4E1A-B201-565925725DBA}"
 "IsWebType" = "8:FALSE"
-"ProjectName" = "8:SSMSHistorizer.Setup"
+"ProjectName" = "8:Dev.IL.Engineering.SSMSHistorizer.Setup"
 "LanguageId" = "3:1033"
 "CodePage" = "3:1252"
 "UILanguageId" = "3:1033"
@@ -16,7 +16,7 @@
         "Entry"
         {
         "MsmKey" = "8:_0514AD61FDBE0F52534F620385C11F68"
-        "OwnerKey" = "8:_4F681BDCFE7044F1A6CF68AA3B35EF22"
+        "OwnerKey" = "8:_42CF1471F52244B0922D75BAC843DB68"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
@@ -28,7 +28,7 @@
         "Entry"
         {
         "MsmKey" = "8:_1FF608266BB2F815AF891CA45AA1F443"
-        "OwnerKey" = "8:_4F681BDCFE7044F1A6CF68AA3B35EF22"
+        "OwnerKey" = "8:_42CF1471F52244B0922D75BAC843DB68"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
@@ -45,6 +45,12 @@
         }
         "Entry"
         {
+        "MsmKey" = "8:_42CF1471F52244B0922D75BAC843DB68"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
         "MsmKey" = "8:_43E9B7EC5E25F0C95008075BD5B2B05E"
         "OwnerKey" = "8:_5A4A0E5F54752C1F33497442BEF791F1"
         "MsmSig" = "8:_UNDEFINED"
@@ -53,12 +59,6 @@
         {
         "MsmKey" = "8:_490B182EEB0D446481BB94AF03120CCA"
         "OwnerKey" = "8:_8BD11AB0BB4594991ADA1F567768FC2E"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
-        "MsmKey" = "8:_4F681BDCFE7044F1A6CF68AA3B35EF22"
-        "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
@@ -82,7 +82,7 @@
         "Entry"
         {
         "MsmKey" = "8:_52953C800754B8F8BE62C70F872FD3C2"
-        "OwnerKey" = "8:_4F681BDCFE7044F1A6CF68AA3B35EF22"
+        "OwnerKey" = "8:_42CF1471F52244B0922D75BAC843DB68"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
@@ -94,7 +94,7 @@
         "Entry"
         {
         "MsmKey" = "8:_5A4A0E5F54752C1F33497442BEF791F1"
-        "OwnerKey" = "8:_4F681BDCFE7044F1A6CF68AA3B35EF22"
+        "OwnerKey" = "8:_42CF1471F52244B0922D75BAC843DB68"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
@@ -118,7 +118,7 @@
         "Entry"
         {
         "MsmKey" = "8:_8BD11AB0BB4594991ADA1F567768FC2E"
-        "OwnerKey" = "8:_4F681BDCFE7044F1A6CF68AA3B35EF22"
+        "OwnerKey" = "8:_42CF1471F52244B0922D75BAC843DB68"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
@@ -142,7 +142,7 @@
         "Entry"
         {
         "MsmKey" = "8:_9BC9123B1B6985521E2FEFA1E0573C28"
-        "OwnerKey" = "8:_4F681BDCFE7044F1A6CF68AA3B35EF22"
+        "OwnerKey" = "8:_42CF1471F52244B0922D75BAC843DB68"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
@@ -166,7 +166,7 @@
         "Entry"
         {
         "MsmKey" = "8:_CAB8E76D78F042137D2E33E35DEA417D"
-        "OwnerKey" = "8:_4F681BDCFE7044F1A6CF68AA3B35EF22"
+        "OwnerKey" = "8:_42CF1471F52244B0922D75BAC843DB68"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
@@ -184,7 +184,7 @@
         "Entry"
         {
         "MsmKey" = "8:_UNDEFINED"
-        "OwnerKey" = "8:_4F681BDCFE7044F1A6CF68AA3B35EF22"
+        "OwnerKey" = "8:_42CF1471F52244B0922D75BAC843DB68"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
@@ -247,6 +247,14 @@
         "PrivateKeyFile" = "8:"
         "TimeStampServer" = "8:"
         "InstallerBootstrapper" = "3:2"
+            "BootstrapperCfg:{63ACBE69-63AA-4F98-B2B6-99F9E24495F2}"
+            {
+            "Enabled" = "11:TRUE"
+            "PromptEnabled" = "11:TRUE"
+            "PrerequisitesLocation" = "2:1"
+            "Url" = "8:"
+            "ComponentsUrl" = "8:"
+            }
         }
         "Release"
         {
@@ -263,6 +271,14 @@
         "PrivateKeyFile" = "8:"
         "TimeStampServer" = "8:"
         "InstallerBootstrapper" = "3:2"
+            "BootstrapperCfg:{63ACBE69-63AA-4F98-B2B6-99F9E24495F2}"
+            {
+            "Enabled" = "11:TRUE"
+            "PromptEnabled" = "11:TRUE"
+            "PrerequisitesLocation" = "2:1"
+            "Url" = "8:"
+            "ComponentsUrl" = "8:"
+            }
         }
     }
     "Deployable"
@@ -1236,9 +1252,9 @@
         }
         "ProjectOutput"
         {
-            "{5259A561-127C-4D43-A0A1-72F10C7B3BF8}:_4F681BDCFE7044F1A6CF68AA3B35EF22"
+            "{5259A561-127C-4D43-A0A1-72F10C7B3BF8}:_42CF1471F52244B0922D75BAC843DB68"
             {
-            "SourcePath" = "8:..\\SSMSHistorizer\\obj\\Debug\\SSMSHistorizer.dll"
+            "SourcePath" = "8:..\\SSMSHistorizer\\obj\\Debug\\Dev.IL.Engineering.SSMSHistorizer.dll"
             "TargetName" = "8:"
             "Tag" = "8:"
             "Folder" = "8:_9F42E058EA9B43D5915271BD97F23482"
