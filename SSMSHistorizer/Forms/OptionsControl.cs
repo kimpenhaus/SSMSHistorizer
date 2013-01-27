@@ -8,8 +8,6 @@
         public OptionsControl()
         {
             this.InitializeComponent();
-
-
         }
     }
 }
